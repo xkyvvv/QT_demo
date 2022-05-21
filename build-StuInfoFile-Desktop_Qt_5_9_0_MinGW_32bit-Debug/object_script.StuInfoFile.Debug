@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\EditStuMessBox.o
+./debug\MainWidget.o
+./debug\mainwindow.o
+./debug\Student.o
+./debug\Tool.o
+./debug\moc_mainwindow.o
+./debug\moc_EditStuMessBox.o
+./debug\moc_MainWidget.o
+);

@@ -1,0 +1,12 @@
+---- file_name Matches (11 in 3 files) ----
+EditStuMessBox::saveStuMess in EditStuMessBox.cpp :         QFile file(file_name);
+MainWidget::flushTable in MainWidget.cpp :     QFile file(file_name);
+MainWidget::delStuFun in MainWidget.cpp :             QFile file(file_name);
+MainWidget::delStuFun in MainWidget.cpp :             QFile tempFile(tempFile_name);
+MainWidget::delStuFun in MainWidget.cpp :             tempFile.rename(file_name);
+MainWidget::changeStuMess in MainWidget.cpp :     QFile file(file_name);
+MainWidget::changeStuMess in MainWidget.cpp :     QFile tempFile(tempFile_name);
+MainWidget::changeStuMess in MainWidget.cpp :     tempFile.rename(file_name);
+MainWidget::saveStuMess in MainWidget.cpp :     QFile file(file_name);
+Tool.h line 3 : #define file_name "student.txt"
+Tool.h line 4 : #define tempFile_name "student_temp.txt"

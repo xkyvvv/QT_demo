@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\EditStuMessBox.o
+./release\MainWidget.o
+./release\mainwindow.o
+./release\Student.o
+./release\Tool.o
+./release\moc_mainwindow.o
+./release\moc_EditStuMessBox.o
+./release\moc_MainWidget.o
+);

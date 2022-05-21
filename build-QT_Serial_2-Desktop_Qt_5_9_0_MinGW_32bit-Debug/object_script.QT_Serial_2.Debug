@@ -1,0 +1,17 @@
+INPUT(
+./debug\Complex.o
+./debug\FFT.o
+./debug\FFT_IFFTWidget.o
+./debug\chartWidget.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\myChartView.o
+./debug\serial.o
+./debug\serialWidget.o
+./debug\moc_FFT_IFFTWidget.o
+./debug\moc_chartWidget.o
+./debug\moc_mainwindow.o
+./debug\moc_myChartView.o
+./debug\moc_serial.o
+./debug\moc_serialWidget.o
+);
